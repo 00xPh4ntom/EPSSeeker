@@ -1,4 +1,4 @@
-# EPSS API Tool
+# EPSSeekr
 
 This is a simple Bash script that allows you to query the EPSS (Exploit Prediction Scoring System) API using various parameters, such as CVE name, date, and EPSS score. The script uses the `curl` command to send requests to the EPSS API and retrieve data in JSON format.
 
@@ -38,5 +38,6 @@ This will retrieve EPSS data for the CVE "CVE-2021-40438" with an EPSS score gre
 
 ## Acknowledgments
 
-This tool was created using the EPSS API provided by FIRST.org.
+I created this tool using the EPSS API provided by FIRST.org.
+
 
